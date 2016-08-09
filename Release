@@ -1,0 +1,8 @@
+Origin: Laborc
+Label: Laborc 
+Suite: stable 
+Version: 1.0 
+Codename: Laborc
+Architectures: darwin-arm iphoneos-arm 
+Components: main 
+Description: Laborc Cydia Source
