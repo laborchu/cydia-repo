@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: laborc
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//csplugin_0.0.1.deb
+Filename: ./debs/csplugin_0.0.1.deb
 Size: 3072
 MD5sum: ffef25b2476f5be643d98c9af9d2741d
 SHA1: da9598900ee383239f6dfc2fbe0a843f704c5857
