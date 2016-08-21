@@ -1,16 +1,32 @@
 Package: com.laborc.csplugin
-Version: 0.0.1-4
+Version: 0.0.1-5
 Architecture: iphoneos-arm
 Maintainer: laborc
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.laborc.csplugin_0.0.1-4_iphoneos-arm.deb
-Size: 3072
-MD5sum: ffef25b2476f5be643d98c9af9d2741d
-SHA1: da9598900ee383239f6dfc2fbe0a843f704c5857
-SHA256: a049627108d548d3301f2f803da3eec1516d26f4fcefd956a81feed18a7aa621
+Filename: debs//com.laborc.csplugin_0.0.1_iphoneos-arm.deb
+Size: 3196
+MD5sum: e3e08cfa16cee32d25d9c96828488f0a
+SHA1: b2fa441e52d0ef5ae9425a79dc0ceb704a978909
+SHA256: 511b21ae340fe7aa55dacba0f207415059ccd35db281656dd40ca7a8434a3451
 Section: Tweaks
-Description: cs plugin
+Description: 扫描全能王插件，默认扫描出结果以后不能复制和分享，安装插件以后提升为超级账号
 Author: laborc
 Name: csPlugin
+
+Package: com.laborc.wxplugin
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Maintainer: laborc
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs//com.laborc.wxplugin_0.0.1-5_iphoneos-arm.deb
+Size: 5864
+MD5sum: a3eab051ea9cfe56237e6f49007fe711
+SHA1: ffb4c14809315df19ea00ac14d09a6aed716287e
+SHA256: 27dd0d994f7fb2348d80920a12acbdb15674e3daeada0b894777bbe0980ccff1
+Section: Tweaks
+Description: 抢红包功能:[当前只支持对进入的聊天会话抢红包，比如进入群聊A，那只能抢群聊A的，不能抢其他聊天会话的，如果不进入任何聊天会话，就不会抢任何红包];短视频:[朋友圈视频默认是只能录制6秒，现在安装插件以后可以录制30秒]
+Author: laborc
+Name: wxPlugin
 
