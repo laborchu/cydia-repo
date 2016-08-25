@@ -15,16 +15,16 @@ Author: laborc
 Name: csPlugin
 
 Package: com.laborc.wxplugin
-Version: 0.0.1-8
+Version: 0.0.2-1
 Architecture: iphoneos-arm
 Maintainer: laborc
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.laborc.wxplugin_0.0.1-8_iphoneos-arm.deb
-Size: 5540
-MD5sum: 91c0d568d92ed2bf8aae45d25f9c406d
-SHA1: 6c380cbee03eca35aa3eec93af53413ee8600620
-SHA256: 2bf23d071d2a161e08578ee06ddb6450e25f0c46c938c8c443608549be20ed91
+Filename: debs//com.laborc.wxplugin_0.0.2-1_iphoneos-arm.deb
+Size: 5726
+MD5sum: 52bbcc425b06793f1a3c01d807c8734d
+SHA1: 7880d344195faf8b6f30bdb34bf23bdce70ac532
+SHA256: baf4c90262a2ead9f23d40dffb64669c9b7ec38bda7b1dbc7a5be578e93103e0
 Section: Tweaks
 Description: 抢红包功能:[当前只支持对进入的聊天会话抢红包，比如进入群聊A，那只能抢群聊A的，不能抢其他聊天会话的，如果不进入任何聊天会话，就不会抢任何红包];短视频:[朋友圈视频默认是只能录制6秒，现在安装插件以后可以录制30秒]
 Author: laborc
